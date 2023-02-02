@@ -1,3 +1,3 @@
 # PurePython
 
-these are some of my training py fieles when I was learning python
+these are some of my training py files when I was learning python
